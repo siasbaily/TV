@@ -1,0 +1,193 @@
+{
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
+  
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  
+  "lives": [{"name": "tvlive","type": 0,"url": "https://live.fanmingming.com/tv/m3u/global.m3u","playerType": 1}],
+  
+  "sites": 
+  [
+  {"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"},
+	{"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"}},
+  {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
+	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+	{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":0,"quickSearch":1,"changeable":1},
+	{"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":0,"quickSearch":1,"changeable":1},
+	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
+	{"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},	
+	//农民
+	//在线
+	{"key": "Xinsj","name": "新视觉","type": 3,"api": "csp_Xinsj","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
+	{"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"filterable": 1},
+	{"key": "csp_XYQHiker_素白白影视","name":"🥬素白白影视(XYQH)","type":3,"api":"csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/素白白影视.json"},
+	{"key": "csp_XYQBiu_花猫TV","name": "🐱花猫TV(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/花猫TV.json"},
+	{"key": "看球","name": "看球","type": 3,"api": "csp_Kanqiu","searchable": 1,"changeable": 0,"style": {"type": "list"}},
+  {"key": "csp_XYQHiker_无插件直播","name": "🏀无插件直播✈️(XYQH)","type": 3,"api": "csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/无插件直播.json"},
+  {"key": "csp_XYQBiu_88看球","name":"88看球(XYQ)","type":3,"api":"csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/88看球.json"},
+	{"key": "csp_XYQBiu_310直播","name": "⚽️310直播✈️(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/310直播.json"},
+		
+	{
+      "key": "應用商店",
+      "name": "應用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
+    },
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "10.85"
+      ]
+    },
+    {
+      "name": "索尼",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "15.1666",
+        "15.2666"
+      ]
+    },
+    {
+      "name": "暴風",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "18.5333"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "25.0666"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    }
+  ]
+}
