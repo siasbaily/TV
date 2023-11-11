@@ -7,26 +7,26 @@
   
   "sites": 
   [
-  {"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"},
-	{"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"}},
-  {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
-	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-	{"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":0,"quickSearch":1,"changeable":1},
-	{"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":0,"quickSearch":1,"changeable":1},
-	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
-	{"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},	
+   {"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"},
+   {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"}},
+   {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
+   {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+   {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+   {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
+   {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
+	//{"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},	
 	//农民
 	//在线
-	{"key": "Xinsj","name": "新视觉","type": 3,"api": "csp_Xinsj","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
-	{"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"filterable": 1},
-	{"key": "csp_XYQHiker_素白白影视","name":"🥬素白白影视(XYQH)","type":3,"api":"csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/素白白影视.json"},
-	{"key": "csp_XYQBiu_花猫TV","name": "🐱花猫TV(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/花猫TV.json"},
-	{"key": "看球","name": "看球","type": 3,"api": "csp_Kanqiu","searchable": 1,"changeable": 0,"style": {"type": "list"}},
-  {"key": "csp_XYQHiker_无插件直播","name": "🏀无插件直播✈️(XYQH)","type": 3,"api": "csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/无插件直播.json"},
-  {"key": "csp_XYQBiu_88看球","name":"88看球(XYQ)","type":3,"api":"csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/88看球.json"},
-	{"key": "csp_XYQBiu_310直播","name": "⚽️310直播✈️(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/310直播.json"},
+   {"key": "Xinsj","name": "新视觉","type": 3,"api": "csp_Xinsj","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
+   {"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"filterable": 1},
+   {"key": "csp_XYQHiker_素白白影视","name":"🥬素白白影视(XYQH)","type":3,"api":"csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/素白白影视.json"},
+   {"key": "csp_XYQBiu_花猫TV","name": "🐱花猫TV(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/花猫TV.json"},
+   {"key": "看球","name": "看球","type": 3,"api": "csp_Kanqiu","searchable": 0,"changeable": 0,"style": {"type": "list"}},
+   {"key": "csp_XYQHiker_无插件直播","name": "🏀无插件直播✈️(XYQH)","type": 3,"api": "csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/无插件直播.json"},
+   {"key": "csp_XYQBiu_88看球","name":"88看球(XYQ)","type":3,"api":"csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/88看球.json"},
+   {"key": "csp_XYQBiu_310直播","name": "⚽️310直播✈️(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/310直播.json"},
 		
-	{
+   {
       "key": "應用商店",
       "name": "應用商店",
       "type": 3,
