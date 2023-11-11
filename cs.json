@@ -11,9 +11,9 @@
    {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"}},
    {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
    {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-   {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-   {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
-   {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
+   {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":0,"quickSearch":1,"changeable":1},
+   {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":0,"changeable":1},
+   {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 1,"filterable": 1},
 	//{"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},	
 	//农民
 	//在线
