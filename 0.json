@@ -11,20 +11,18 @@
    {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"}},
    {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
    {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-   {"key": "厂长资源","name": "厂长┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/厂长资源.js"},	
    {"key": "农民影视","name": "农民┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/农民影视.js"},
-	  //在线
-   {"key": "新视觉影院","name": "新视觉┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/新视觉影视.js"},
-   {"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"filterable": 1},
-   {"key": "素白白影视","name": "素白白┃影视","type": 3,"api": "csp_XBPQ","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"},
-   {"key": "csp_XYQBiu_花猫TV","name": "🐱花猫TV(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/花猫TV.json"},
-   {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
    {"key": "一起看","name": "一起看┃影视","api": "csp_YQKan","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","type": 3,"searchable": 1,"changeable": 1},
-   {"key": "快看影视","name": "快看┃影视","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/快看.js"},
-   {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
-   {"key": "csp_XYQHiker_voflixHD","name":"voflixHD(XYQH)","type":3,"api":"csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/voflix HD.json"},	  
-   {"key": "人人影视","name": "人人┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/人人影视.js"},
-
+   //在线
+    {"key": "厂长资源","name": "厂长┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/厂长资源.js"},	
+    {"key": "新视觉影院","name": "新视觉┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/新视觉影视.js"},
+    {"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "素白白影视","name": "素白白┃影视","type": 3,"api": "csp_XBPQ","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"},
+    {"key": "csp_XYQBiu_花猫TV","name": "🐱花猫TV(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/花猫TV.json"},
+    {"key": "快看影视","name": "快看┃影视","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/快看.js"},
+     {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+     {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
+   
 
  //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -47,25 +45,9 @@
    {"key": "csp_XYQHiker_无插件直播","name": "🏀无插件直播✈️(XYQH)","type": 3,"api": "csp_XYQHiker","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/无插件直播.json"},
    {"key": "csp_XYQBiu_88看球","name":"88看球(XYQ)","type":3,"api":"csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/88看球.json"},
    {"key": "csp_XYQBiu_310直播","name": "⚽️310直播✈️(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/310直播.json"},
- {
-      "key": "企鹅体育",
-      "name": "企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"
-    },
-    {
-      "key": "310直播",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/310直播.js"
-    },
-
+   {"key": "310直播","name": "⚽310┃看球","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 0,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/310直播.js"},
+   {"key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 0,"changeable": 0, "ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"},
+    
     {
       "key": "AList",
       "name": "AList",
