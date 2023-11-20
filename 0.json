@@ -11,6 +11,7 @@
    {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"}},
    {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
    {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+   {"key": "荐片","name": "荐片┃P2P","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://tvbox.cainisi.cf/json/jianpian.json","jar": "https://tvbox.cainisi.cf/jar/fm1113.jar;md5;18d6103e01c3865caeb7a23e627adb3c"},
    {"key": "农民影视","name": "农民┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/农民影视.js"},
    {"key": "一起看","name": "一起看┃影视","api": "csp_YQKan","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","type": 3,"searchable": 1,"changeable": 1},
    //在线
