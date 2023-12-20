@@ -1,5 +1,5 @@
 {
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f",
+  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;d793cc92ea62550b731392d15bacb859",
   
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   
@@ -62,17 +62,10 @@
    {"key": "csp_XYQBiu_310直播","name": "⚽️310直播✈️(XYQ)","type": 3,"api": "csp_XYQBiu","jar": "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQBiu/310直播.json"},
    {"key": "310直播","name": "⚽310┃看球","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 0,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/310直播.js"},
    {"key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath","jar": "https://tvbox.cainisi.cf/jar/fty1113.jar;md5;f6ce0ce7bd8b398540be062ebef7051d","searchable": 0,"changeable": 0, "ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"},
-    
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/alist.json"
-    },
-    {
+   
+    //https://github.com/okcaptain/okjar/blob/rm/ok.json 
+   {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/alist.json"},
+   {
       "key": "WebDAV",
       "name": "WebDAV",
       "type": 3,
@@ -80,23 +73,23 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
-    },
-    {
+   },
+   {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0
-    },
-    {
+   },
+   {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0
-    },
+   },
     {
       "key": "雲搜",
       "name": "雲搜",
@@ -138,7 +131,9 @@
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
     },
-   {
+    //https://github.com/okcaptain/okjar/blob/rm/ok.json
+    {"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png;md5;2AB53A1F1D5B93624C41595F73C9633C","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
+    {
       "key": "商店",
       "name": "商店",
       "type": 3,
