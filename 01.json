@@ -5,7 +5,10 @@
   
   "comment": "多路直播配置只有蜂蜜影视支持",
   "lives": 
-  [{"name": "tvlive","type": 0,"url": "https://xhdwc.tk/tvlive.txt","playerType": 1}],
+  [
+   {"name": "tvlive","type": 0,"url": "https://xhdwc.tk/tvlive.txt","playerType": 1},
+   {"name": "Kimentanm","type": 0,"url": "http://siaser.com/tv/iptv.m3u","playerType": 1}
+  ],
 
   
   "sites": 
@@ -14,15 +17,17 @@
    {"key": "豆瓣","name": "豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "https://fm.t4tv.hz.cz/json/douban.json"},
    {"key": "玩偶","name": "玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "影視天下第一","filter": "https://fm.t4tv.hz.cz/json/wogg.json"}},
    //http://饭太硬.top/tv
+   {"key": "csp_Nmys","name": "🌾农民┃直连","type": 3,"api": "csp_Nmys","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://fanty.run.goorm.site/ext/nmys.json"},
    {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":1,"quickSearch":1,"changeable":1},
    {"key": "Auete","name": "🏝奥特┃直连","type": 3,"api": "csp_Auete","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://haozhansou.com/"},
    {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
    {"key": "Xinsj","name": "👓视觉┃直连","type": 3,"api": "csp_Xinsj","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","quickSearch": 1,"changeable": 1,"ext": "https://www.hdmyy.com/"},   
    {"key": "一起看 ","name": "🎉一起┃App","type": 3,"api": "csp_YQKan","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable": 1,"quickSearch": 1,"changeable": 1},
    {"key": "DiDuan","name": "⏮️低端┃直连","type": 3, "api": "csp_Ddrk","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
+   
+   
    //https://tvbox.cainisi.cf
    {"key": "荐片","name": "荐片┃P2P","type": 3,"api": "csp_Jianpian","jar": "https://tvbox.cainisi.cf/jar/fm1124.jar;md5;1117603a248d03a2fba94c991612970f","searchable": 1,"changeable": 1,"ext": "https://tvbox.cainisi.cf/json/jianpian.json"},
-   {"key": "农民影视","name": "农民┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","jar": "https://tvbox.cainisi.cf/jar/fty1123.jar;md5;ea2690fc66083afe1431071968e60395","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/农民影视.js"},
    
    
    
