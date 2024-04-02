@@ -1,0 +1,29 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {
+					"name": "🦆小雅网盘",
+					"server": "https://pan.mediy.cn/"
+		},
+        {
+            "name": "💃小雅搜索2",
+            "server": "http://60.204.139.228:5678",
+            "version": 3
+        },
+        {
+            "name": "💃小雅xialuoxi.us.to",
+            "server": "http://116.204.96.231:5678/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅alist.imto",
+            "server": "https://alist.imto.cc/",
+            "version": 3
+        },
+        {
+            "name": "💃小雅alist.hhhhhq",
+            "server": "https://alist.hhhhhq.space/",
+            "version": 3
+        }
+  ]
+}
